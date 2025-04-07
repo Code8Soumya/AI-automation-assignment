@@ -2,3 +2,4 @@ requests
 python-dotenv
 langchain_google_genai
 google-generativeai
+flask
