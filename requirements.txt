@@ -3,3 +3,9 @@ python-dotenv
 langchain_google_genai
 google-generativeai
 flask
+ipykernel
+selenium
+pandas
+bs4
+matplotlib
+seaborn
